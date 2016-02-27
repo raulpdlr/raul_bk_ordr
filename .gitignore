@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.properties
+.gradle/2.11/taskArtifacts/cache.properties.lock
+*.bin
+.settings/gradle.prefs
+*.class
+*.jar
+build/libs/raul_bk_ordr.jar
+build/tmp/test/jar_extract_6867332304064534143_tmp
+*.html
